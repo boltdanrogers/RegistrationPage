@@ -1,0 +1,46 @@
+body
+{
+background-color: mediumblue;
+padding:0;
+margin: 0;
+}
+
+nav
+{
+    background-color: white;
+    padding:5px;
+    margin:0;
+    text-align: right;
+}
+
+nav button
+{   color: white;
+    background-color: blue;
+    padding: 5px;
+    margin: 3px;
+}
+
+#center
+{   width:30%;
+    min-width: 300px;
+    max-width:500px;
+    padding:5px;
+    background-color:white;
+    margin: auto;
+    margin-top:2%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+input
+{
+    width:80%;
+    padding:3px;
+    margin:5px;
+}
+#button
+{   color:white;
+    background-color: mediumblue;
+    width:80%;
+    padding:10px;
+}
